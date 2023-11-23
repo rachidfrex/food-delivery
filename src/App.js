@@ -2,12 +2,13 @@ import './App.css';
 import { FaHome } from "react-icons/fa";
 import { FaQuestionCircle } from "react-icons/fa";
 import { MdMessage } from "react-icons/md";
-import { IoMenu } from "react-icons/io5";
-
+import { IoMenu } from "react-icons/io5"; 
 import { useState } from 'react';
 import Header from './components/header';
 import Howwork from './components/how-work';
 import Cardshop from './components/cardshop';
+import Meetchef from './components/meetchef';
+import Share from './components/share'; 
 function App() {
   const [menuHidden, setMenuHidden] = useState(true);
 
@@ -18,8 +19,8 @@ function App() {
   
   return (
     
-    <div className=" text-gray-600 bg-gray-100  " >
-      
+    <div className=" text-gray-600 bg-gray-100   " >
+     
     <div className="md:col-span-1 md:flex md:justify-evenly bg-white  ">
       <nav className=" text-right  md:flex md:justify-center  md:items-center  border-b w-full ">
 
@@ -76,6 +77,10 @@ function App() {
     <div><Howwork/></div>
     <div>
     <Cardshop/>
+    </div>
+    <div><Share/></div>
+    <div>
+    <Meetchef/>
     </div>
     
   
