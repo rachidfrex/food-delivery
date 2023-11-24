@@ -9,13 +9,16 @@ import Howwork from './components/how-work';
 import Cardshop from './components/cardshop';
 import Meetchef from './components/meetchef';
 import Share from './components/share'; 
+import Contactus from './components/contactus';
+
 function App() {
   const [menuHidden, setMenuHidden] = useState(true);
-
   const handleBurgerClick = () => { 
     console.log('Burger clicked!');
     setMenuHidden(!menuHidden);
   };
+  
+
   
   return (
     
@@ -81,6 +84,10 @@ function App() {
     <div><Share/></div>
     <div>
     <Meetchef/>
+    </div>
+    <div>
+      <Contactus/>
+    
     </div>
     
   

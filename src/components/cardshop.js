@@ -20,9 +20,9 @@ function Cardshop() {
       <div>
         <h4 className="font-bold mt-12 border-b border-gray-200">Latest Recipes</h4>
   
-        <div className=" mt-12 grid  grid-cols-1 md:grid-cols-2 lg:grid-cols-4  gap-10 ">
+        <div className=" mt-12 grid  grid-cols-1 md:grid-cols-2 lg:grid-cols-4  gap-10  ">
           {/* cards go here */}
-          <div className='card  '> 
+          <div className='card  ytranform   '> 
           
             <img src={noodl} alt="stew" className=' w-full  h-48 sm:h-68 object-cover'/>
             <div className='m-4'>
@@ -33,7 +33,7 @@ function Cardshop() {
               <span>1 hour</span>
             </div>
           </div>
-          <div className='card '> 
+          <div className='card ytranform '> 
           
             <img src={curry} alt="stew" className=' w-full h-48 sm:h-68 object-cover'/>
             <div className='m-4'>
@@ -44,7 +44,7 @@ function Cardshop() {
               <span>25 mins</span>
             </div>
           </div>
-          <div className='card '> 
+          <div className='card ytranform '> 
           
             <img src={stew} alt="stew" className=' w-full  h-48 sm:h-68 object-cover'/>
             <div className='m-4'>
@@ -55,7 +55,7 @@ function Cardshop() {
               <span>25 mins</span>
             </div>
           </div>
-          <div className='card '> 
+          <div className='card ytranform '> 
           
           <img src={sushi} alt="stew" className=' w-full  h-48 sm:h-68 object-cover'/>
           <div className='m-4'>
@@ -73,7 +73,7 @@ function Cardshop() {
 
         <div className=" mt-12 grid  grid-cols-1 md:grid-cols-2 lg:grid-cols-4  gap-10 ">
           {/* cards go here */}
-          <div className='card  '> 
+          <div className='card ytranform  '> 
           
             <img src={Tufu} alt="stew" className=' w-full  h-48 sm:h-68 object-cover'/>
             <div className='m-4'>
@@ -84,7 +84,7 @@ function Cardshop() {
               <span>1.5 hour</span>
             </div>
           </div>
-          <div className='card  '> 
+          <div className='card ytranform  '> 
           
             <img src={noodl} alt="stew" className=' w-full  h-48 sm:h-68 object-cover'/>
             <div className='m-4'>
@@ -95,7 +95,7 @@ function Cardshop() {
               <span>1 hour</span>
             </div>
           </div>
-          <div className='card  '> 
+          <div className='card ytranform  '> 
           
             <img src={bowl} alt="stew" className=' w-full  h-48 sm:h-68 object-cover'/>
             <div className='m-4'>
@@ -106,7 +106,7 @@ function Cardshop() {
               <span>1 hour</span>
             </div>
           </div>
-          <div className='card '> 
+          <div className='card ytranform '> 
           
           <img src={curry} alt="stew" className=' w-full  h-48 sm:h-68 object-cover'/>
           <div className='m-4'>

@@ -11,3 +11,13 @@
 .btn{
     @apply rounded-full  uppercase  font-bold cursor-pointer tracking-wider
 }
+.ytranform{
+    @apply transition ease-out duration-200 transform hover:scale-105  hover:-translate-y-2
+}
+.center{
+    position: absolute;
+    left:0;
+    right:0;
+    margin-left:auto;
+    margin-right:auto;
+}
