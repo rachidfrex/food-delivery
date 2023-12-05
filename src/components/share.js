@@ -18,7 +18,7 @@ function Share() {
                 </div>
             </div>
             <div className='  left-64  sm:left-96 xl:left-auto absolute  md:static opacity-25 md:opacity-100 blur-sm md:blur-none  lg:block  w-80 md:w-full    xl:mx-20   mt-6   p-5 ' >
-              <img className='  xl:ml-20   md:w-full '  src={girl} alt='man' width={300}/>
+              <img className='  xl:ml-20   md:w-full lg:w-[600px]  '  src={girl} alt='man' width={300}/>
             </div>
             
 

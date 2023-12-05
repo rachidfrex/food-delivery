@@ -7,9 +7,9 @@ import { FaInstagram } from "react-icons/fa";
 import { FaTwitter } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
 import { FaFacebook } from "react-icons/fa";
-function Contactus() {
+function Footer() {
   return (
-    <div  className=' my-5    ' >
+    <div  className=' mt-5   ' >
        <div className='bg-orange-400   py-8 h-44 '>
         <div   className=' absolute  border-xl px-5 py-5  z-10  center w-full sm:w-[600px]     bg-white  flex  mx-auto  items-center  rounded-2xl flex-col  '>
             <div className=' text-center '>
@@ -71,4 +71,4 @@ function Contactus() {
   )
 }
 
-export default Contactus
+export default Footer

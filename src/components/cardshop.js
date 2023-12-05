@@ -22,7 +22,7 @@ function Cardshop() {
   
         <div className=" mt-12 grid  grid-cols-1 md:grid-cols-2 lg:grid-cols-4  gap-10  ">
           {/* cards go here */}
-          <div className='card  ytranform   '> 
+          <div className='card  ytranform     '> 
           
             <img src={noodl} alt="stew" className=' w-full  h-48 sm:h-68 object-cover'/>
             <div className='m-4'>
