@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/food-delivery/static/css/main.fb291731.css",
+    "main.js": "/food-delivery/static/js/main.c4b22f9e.js",
+    "static/media/chef3.jpg": "/food-delivery/static/media/chef3.a9edebb287914108c051.jpg",
+    "static/media/chef2.jpg": "/food-delivery/static/media/chef2.0dbfa14f13dc76047165.jpg",
+    "static/media/man-dely.png": "/food-delivery/static/media/man-dely.10bd806575d5e4da86df.png",
+    "static/media/girl.png": "/food-delivery/static/media/girl.56183ff70881cb9710ee.png",
+    "static/media/curry.jpg": "/food-delivery/static/media/curry.2b780854d647dadea9cf.jpg",
+    "static/media/chef1.jpg": "/food-delivery/static/media/chef1.1e179be2bb61d06de49c.jpg",
+    "static/media/sushi.jpg": "/food-delivery/static/media/sushi.7b12a5b3a0104d7a3934.jpg",
+    "static/media/bowl.jpg": "/food-delivery/static/media/bowl.bad99f8851cfec37bebd.jpg",
+    "static/media/Tofu.jpg": "/food-delivery/static/media/Tofu.0601b2f42af7901aa57f.jpg",
+    "static/media/noodl.jpg": "/food-delivery/static/media/noodl.d1095167aaba02a3328e.jpg",
+    "static/media/stew.jpg": "/food-delivery/static/media/stew.2d67ba0cb265ebef59d7.jpg",
+    "static/media/chef4.jpg": "/food-delivery/static/media/chef4.b060e4d5faf53c4c3d6b.jpg",
+    "index.html": "/food-delivery/index.html",
+    "main.fb291731.css.map": "/food-delivery/static/css/main.fb291731.css.map",
+    "main.c4b22f9e.js.map": "/food-delivery/static/js/main.c4b22f9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb291731.css",
+    "static/js/main.c4b22f9e.js"
+  ]
+}
