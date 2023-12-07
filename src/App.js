@@ -1,6 +1,6 @@
 import './App.css';
 
-import {Routes ,Route} from 'react-router-dom'
+import { Routes ,Route} from 'react-router-dom'
  
 import Footer from './components/footer';
 import Nav from './components/nav';
@@ -21,9 +21,8 @@ function App() {
      
      
      <Routes>
-        <Route path="/"  exact element={<Home />}/> 
+        <Route path="/"   element={<Home />}/> 
         <Route path="/product"  element={<Product />} />
-        
     </Routes>
     
    
